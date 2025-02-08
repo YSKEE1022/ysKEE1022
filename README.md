@@ -12,7 +12,8 @@
 - 🤝 I’m looking for help with **React Native**
 
 - 📫 How to reach me **keeyungshen@gmail.com**
-
+  
+- 👋 My linkedin is **www.linkedin.com/in/kee-yung-shen-ys12345**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
